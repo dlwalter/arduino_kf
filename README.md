@@ -1,7 +1,7 @@
 # arduino_kf
 
 
-![Arduino Test Stand](https://raw.githubusercontent.com/dlwalter/arduino_kf/master/test_stand.jpg)
+![Arduino Test Stand](https://raw.githubusercontent.com/dlwalter/arduino_kf/master/test_stand.jpeg)
 
 This project runs a matlab serial server on an Arduino Uno which gathers inertial data to pass back to the host computer and operates the DC motor to generate a desired attitude profile for truth comparison.
 
